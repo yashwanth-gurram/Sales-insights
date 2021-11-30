@@ -1,5 +1,5 @@
 # Sales-insights
-# problem Statemen:
+# Problem Statement:
 AtliQ hardware is a company in India which supplies computer hardware and peripheral devices across India only. The have many stores across India such as surge stores, Nomad stores etc. The head office of the company is situated in Delhi.
 # Scenario —
 The sales manager of the company is facing many challenges. He is facing issues in tracking sales in dynamically growing market. He is having issues with the insights of his business.
