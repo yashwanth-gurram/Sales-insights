@@ -9,4 +9,5 @@ All what the manager wants is a view of the weakest area the company need to foc
 Hence, by using such tools and technology one can make data driven decisions which helps to increase the sales of the company.
 So, in this project we will help a company make its own sales related dashboard using PowerBI.
 
+# AIMS Grid
 ![](https://github.com/yashwanth-gurram/Sales-insights/blob/main/Screenshot%20(393).png)
