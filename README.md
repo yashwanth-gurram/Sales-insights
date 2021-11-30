@@ -8,3 +8,5 @@ So, the problem is that the conversations that are happening are verbal. Hence, 
 All what the manager wants is a view of the weakest area the company need to focus to increase the sales and improvise the declination. He is interested in simple, understandable and digestive insight. So, he is more interested in a dashboard which he can go and look at the real data because data speaks the truth. All he wants is a simple data visualization tool which he can access on daily basis.
 Hence, by using such tools and technology one can make data driven decisions which helps to increase the sales of the company.
 So, in this project we will help a company make its own sales related dashboard using PowerBI.
+
+![](https://github.com/yashwanth-gurram/Sales-insights/blob/main/Screenshot%20(393).png)
