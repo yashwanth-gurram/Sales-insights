@@ -50,3 +50,9 @@ So, in this project we will help a company make its own sales related dashboard 
 9.Show total revenue in year 2020 in Chennai
 
 > SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.market_code="Mark001";
+
+![](https://github.com/yashwanth-gurram/Sales-insights/blob/main/Screenshot%20(394).png)
+
+![](https://github.com/yashwanth-gurram/Sales-insights/blob/main/Screenshot%20(395).png)
+
+![](https://github.com/yashwanth-gurram/Sales-insights/blob/main/Screenshot%20(396).png)
